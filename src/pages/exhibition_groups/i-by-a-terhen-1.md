@@ -18,7 +18,7 @@ description: WIP Offering a variety of formats, Exhibition II is an opportunity
 published: true
 start_date: 30/09/2021
 end_date: 31/10/2021
-order: 4
+order: 3
 exhibitions:
   - exhibition: City Scapes
   - exhibition: The Plot
