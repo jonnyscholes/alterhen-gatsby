@@ -21,4 +21,23 @@ end_date: 31/10/2021
 order: 4
 exhibitions:
   - exhibition: City Scapes
+  - exhibition: The Plot
+  - exhibition: Circling Fragmentations
+  - exhibition: _Architecture in Motion_
+  - exhibition: WRONG, WRONG, WRONG
+  - exhibition: Shine
+  - exhibition: Resting on the Studio Floor
+  - exhibition: Good-Natured Savages
+  - exhibition: NeoPyongyang
+  - exhibition: Ménilmontant
+  - exhibition: Sensori-Moteur
+  - exhibition: HALO
+  - exhibition: Empty Gaze
+  - exhibition: X-ray
+  - exhibition: Znäk
+  - exhibition: IntraBeing
+  - exhibition: Ignis - 14 sec towards carbon neutrality or the point of no return
+  - exhibition: Faces from Energy Blocks series
+  - exhibition: Feito com amor
+  - exhibition: Two Second Meditations
 ---
