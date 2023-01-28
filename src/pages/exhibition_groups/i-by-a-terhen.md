@@ -40,4 +40,5 @@ exhibitions:
   - exhibition: Faces from Energy Blocks series
   - exhibition: Feito com amor
   - exhibition: Two Second Meditations
+logo: https://ucarecdn.com/0bebbd50-84a5-4fbe-815d-169902b92939/
 ---
